@@ -1,0 +1,69 @@
+.conteinar{
+
+    margin: 0 auto;
+    font-weight: bold;
+    background-color: whitesmoke;
+    width: 650px;
+    
+    
+}
+*{
+    box-sizing: border-box;
+}
+.hd{
+    text-align: center;
+}
+.line-disntance{
+    line-height: 7px;
+}
+.salary{
+    line-height: 20px;
+    font-weight: bold;
+}
+.slr{
+    line-height: 7px; 
+    
+}
+.div{
+    line-height: 7px;
+}
+.ronik{
+    line-height:px;
+}
+.tbl{
+    line-height: 20px;
+
+}
+.height{
+    padding-top: 8px;
+}
+.padding{
+    padding-left: 10px;
+}
+@media  screen and  (max-width:400px) {
+    
+    
+}
+
+
+
+
+        
+
+
+
+        
+
+    
+    
+   
+    
+
+
+
+ 
+
+
+
+
+
